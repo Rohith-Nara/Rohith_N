@@ -2,54 +2,54 @@
 
 **Core features**
 
-```python Add expense```
+```Add expense```
 
-```pythonView expenses```
+```View expenses```
 
-```pythonDelete expense```
+```Delete expense```
 
-```pythonTotal spending```
+```Total spending```
 
-```pythonCategory summary```
+```Category summary```
 
-```pythonMonthly summary```
+```Monthly summary```
 
 **Data and storage**
 
-```pythonCSV-based persistence```
+```CSV-based persistence```
 
-```pythonSQLite upgrade path```
+```SQLite upgrade path```
 
-```pythonAutomatic file/database creation```
+```Automatic file/database creation```
 
-```pythonExport to CSV```
+```Export to CSV```
 
 **Validation and reliability**
 
-```pythonInput validation```
+```Input validation```
 
-```pythonSafe handling of missing/empty data```
+```Safe handling of missing/empty data```
 
-```pythonSafe deletion checks```
+```Safe deletion checks```
 
-```pythonClean output formatting```
+```Clean output formatting```
 
 **Budgeting**
 
-```pythonSet budget```
+```Set budget```
 
-```pythonRemaining budget```
+```Remaining budget```
 
-```pythonOverspending alerts```
+```Overspending alerts```
 
 **Advanced versions**
 
-```pythonTkinter GUI```
+```Tkinter GUI```
 
-```pythonTreeview/table display```
+```Treeview/table display```
 
-```pythonEdit/update expenses```
+```Edit/update expenses```
 
-```pythonCharts and visual analysis```
+```Charts and visual analysis```
 
-```pythonDate/date-range filtering```
+```Date/date-range filtering```
