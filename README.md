@@ -1,17 +1,55 @@
-Add expense.
+# Expense Tracker
 
-View expenses.
+**Core features**
 
-Delete expense.
+```python Add expense```
 
-Save/load expenses.
+```pythonView expenses```
 
-Show totals.
+```pythonDelete expense```
 
-Show category summary.
+```pythonTotal spending```
 
-Budget warning.
+```pythonCategory summary```
 
-SQLite.
+```pythonMonthly summary```
 
-Tkinter GUI.
+**Data and storage**
+
+```pythonCSV-based persistence```
+
+```pythonSQLite upgrade path```
+
+```pythonAutomatic file/database creation```
+
+```pythonExport to CSV```
+
+**Validation and reliability**
+
+```pythonInput validation```
+
+```pythonSafe handling of missing/empty data```
+
+```pythonSafe deletion checks```
+
+```pythonClean output formatting```
+
+**Budgeting**
+
+```pythonSet budget```
+
+```pythonRemaining budget```
+
+```pythonOverspending alerts```
+
+**Advanced versions**
+
+```pythonTkinter GUI```
+
+```pythonTreeview/table display```
+
+```pythonEdit/update expenses```
+
+```pythonCharts and visual analysis```
+
+```pythonDate/date-range filtering```
